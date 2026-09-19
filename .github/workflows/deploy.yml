@@ -30,7 +30,7 @@ jobs:
       - name: Prepare the public files
         run: |
           mkdir -p _site
-          cp index.html styles.css script.js shammo_cv.pdf .nojekyll _site/
+          cp index.html styles.css script.js .nojekyll _site/
           cp -R assets _site/assets
 
       - name: Upload the site
