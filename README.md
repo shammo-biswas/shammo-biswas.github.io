@@ -1,4 +1,4 @@
-# Shammo Biswas — research portfolio
+# Shammo Biswas - research portfolio
 
 **[Visit my portfolio → shammo-biswas.github.io](https://shammo-biswas.github.io/)**
 
