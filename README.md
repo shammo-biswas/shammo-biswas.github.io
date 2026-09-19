@@ -1,4 +1,4 @@
-# Shammo Biswas — research portfolio
+# Shammo Biswas - research portfolio
 
 A responsive academic portfolio built with HTML, CSS, and a small amount of vanilla JavaScript. No build step, framework, or package installation is needed to run the site.
 
