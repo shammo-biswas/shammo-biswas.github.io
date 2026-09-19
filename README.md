@@ -32,7 +32,7 @@ Upload `index.html`, `styles.css`, `script.js`, `shammo_cv.pdf`, and the `assets
 
 The included `.github/workflows/deploy.yml` publishes the site on pushes to `main`, or when manually run from the Actions tab. It packages only the public site files and the CV.
 
-In the GitHub repository, select **Settings → Pages → Source → GitHub Actions** before the first deployment. A repository named `Arc4NE01.github.io` serves the portfolio at `https://arc4ne01.github.io/`. A differently named repository serves it under that repository's path; all local asset links support either arrangement.
+In the GitHub repository, select **Settings → Pages → Source → GitHub Actions** before the first deployment. A repository named `shammo-biswas.github.io` serves the portfolio at `https://shammo-biswas.github.io/`. A differently named repository serves it under that repository's path; all local asset links support either arrangement.
 
 The workflow follows [GitHub's custom Pages workflow documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
